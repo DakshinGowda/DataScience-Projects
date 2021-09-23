@@ -8,7 +8,9 @@ This case study aims to identify patterns which indicate if a client has difficu
    - Creation of counterfeit cards
    - Stolen/lost credit cards
    - Fraudulent telemarketing
-
+ 
+ #### _Tools: Numpy, Pandas, Seaborn, Matplotlib_
+ 
 ## Project Pipeline
 #### The project pipeline can be briefly summarized in the following 9 steps:
  - Data Understanding :
