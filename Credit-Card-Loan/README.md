@@ -37,3 +37,4 @@ This case study aims to identify patterns which indicate if a client has difficu
  - Business Insights :
     - Here we discuss about the important features contributed to classify defaulter from non-defaulter.
     - Statagies for approval of credit card loan to non-defaulter.
+
