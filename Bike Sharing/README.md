@@ -28,3 +28,4 @@ Further, the model will be a good way for management to understand the demand dy
 - Residual Analysis of the train data
 - Making predictions using final model
 - Model Evaluation
+
