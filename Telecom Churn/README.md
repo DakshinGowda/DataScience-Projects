@@ -87,9 +87,9 @@ Best single models:
 ## Document
 The dataset can be downloaded from [here](https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view)
 
-Telecom churn.ipynb [link]() : The python file.
+Telecom churn.ipynb [link](https://github.com/DakshinGowda/DataScience-Projects/blob/main/Telecom%20Churn/Telecom%20churn.ipynb) : The python file.
 
-Data+Dictionary-+Telecom+Churn+Case+Study.xlsx [link]() : Data Dictionary.
+Data+Dictionary-+Telecom+Churn+Case+Study.xlsx [link](https://github.com/DakshinGowda/DataScience-Projects/blob/main/Telecom%20Churn/Data%2BDictionary-%2BTelecom%2BChurn%2BCase%2BStudy.xlsx) : Data Dictionary.
 
 ## Team
 - [Dakshin](https://github.com/DakshinGowda)
