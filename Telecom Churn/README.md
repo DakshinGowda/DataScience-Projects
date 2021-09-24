@@ -81,7 +81,7 @@ Best single models:
 | :--------------------: | :----------:| :----------:| :---:|
 | RandomForestClassifier |     0.90	   |     0.91    | 0.91 |
 | XGB Classifer          |     0.89    |     0.87    | 0.88 | 
-| Logistic Regression	   |     0.85    |    0.835    | 0.85 |
+| Logistic Regression	   |     0.85    |    0.85     | 0.85 |
 
 
 ## Document
