@@ -1,9 +1,8 @@
 # Data Science Portfolio and Machine Learning Portfolio
 This repository containing a portfolio of data science projects I've done in the Master's program, self-learning and collabration with datascience enthusiast.
 
-Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
-
 Tools : NumPy, Pandas, Seaborn, Matplotlib, Plotly, scikit-learn, Scipy.
+ 
  
 ## Contents
 - ### Machine Learning
@@ -23,4 +22,7 @@ Tools : NumPy, Pandas, Seaborn, Matplotlib, Plotly, scikit-learn, Scipy.
 - ### Micro Projects 
 	- [Titanic](https://github.com/DakshinGowda/Kaggle/blob/main/Titanic.ipynb)
   	- [Housing](https://github.com/DakshinGowda/Real-Estate-Sales-Predicition/blob/main/Multiple%2BLinear%2BRegression%2B-%2BHousing%2BCase%2BStudy.ipynb)
+
+
+If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on: - [LinkedIn](https://www.linkedin.com/in/dakshingowda/)
     
