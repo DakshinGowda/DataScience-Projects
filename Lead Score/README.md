@@ -7,7 +7,10 @@ The company markets its courses on several websites and search engines like Goog
 
 Now, although X Education gets a lot of leads, its lead conversion rate is very poor. For example, if, say, they acquire 100 leads in a day, only about 30 of them are converted. To make this process more efficient, the company wishes to identify the most potential leads, also known as ‘Hot Leads’. If they successfully identify this set of leads, the lead conversion rate should go up as the sales team will now be focusing more on communicating with the potential leads rather than making calls to everyone.
 
-![leadscore](https://user-images.githubusercontent.com/68459881/134554756-23147780-86b0-4442-8885-d4e0f14ff35c.jpg) 
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/68459881/134554756-23147780-86b0-4442-8885-d4e0f14ff35c.jpg'>
+</p>
+
 ## Lead Conversion Process 
 Demonstrated as a funnel As you can see, there are a lot of leads generated in the initial stage (top) but only a few of them come out as paying customers from the bottom. In the middle stage, you need to nurture the potential leads well (i.e. educating the leads about the product, constantly communicating etc. ) in order to get a higher lead conversion.
 
@@ -21,14 +24,12 @@ Demonstrated as a funnel As you can see, there are a lot of leads generated in t
   - #### Final recommandation is included in [leadscore ppt](https://github.com/DakshinGowda/DataScience-Projects/blob/main/Lead%20Score/LeadScore(PPT).pdf)
 
 ## Project Pipeline
-The project pipeline can be briefly summarized in the following four steps:
+The project pipeline can be briefly summarized in the following steps:
 #### • Data Understanding
    Here, you need to load the data and understand the features present in it. This would help you choose the features that you will need for your final model.
 #### • Exploratory data analytics (EDA)
-   Normally, in this step, you need to perform univariate and bivariate analyses of the data, followed by feature transformations, if necessary. For the current data set need to perform Z-scaling. However, you can check if there is any skewness in the data and try to mitigate it, as it might cause problems during the model-building phase.
-#### • Train/Test Split
-   Now you are familiar with the train/test split, which you can perform in order to check the performance of your models with unseen data. Here, for validation, you can use the k-fold cross-validation method. 
-#### • Model-Building/Hyperparameter Tuning
-   This is the final step at which you can try different models and fine-tune their hyperparameters until you get the desired level of performance on the given dataset. You should try and see if you get a better model by the various sampling techniques.
+   Normally, in this step, you need to perform univariate and bivariate analyses of the data, followed by feature transformations, if necessary. For the current data set need to perform Z-scaling.
+#### • Model-Building
+   This is the final step at which we train 9000 rows and left out with 15 features to train using logistic regression algorithm.
 #### • Model Evaluation
-   Evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent. Choose an appropriate evaluation metric which reflects this business goal.
+   Evaluate the models using appropriate evaluation metrics. Choose an appropriate evaluation metric which reflects this business goal.
