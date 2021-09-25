@@ -1,8 +1,7 @@
 # Credit Card Fraud Detection
 
 ## Introduction
-In this notebook, we will conduct exploratory data analysis using Pandas and Seaborn to find driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. We will also explore any possible reasonings to our insights and finish up with any key insights that we find.
-
+In this case study, we will conduct exploratory data analysis using Pandas and Seaborn to find driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. We will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
 
 ## Problem Statement
