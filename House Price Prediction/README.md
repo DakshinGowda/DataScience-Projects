@@ -26,7 +26,7 @@ _Tools: Numpy, Pandas, Seaborn, Matplotlib, scikit-learn_
   - Plot distribution of categorical features to examine the imbalance in feature.
   - <details>
     <summary><strong> Click to Visualize the conditon of the building over a period of years. </strong></summary>
-    <p align="center"><img src = 'https://github.com/DakshinGowda/DataScience-Projects/blob/main/House%20Price%20Prediction/Images/Age%20Built.png' width = 700><p>
+    <p align="center"><img src = 'https://github.com/DakshinGowda/DataScience-Projects/blob/main/House%20Price%20Prediction/Images/Age%20Built.png' width = 1000><p>
     </details>
 
 - Preprocessing of data
