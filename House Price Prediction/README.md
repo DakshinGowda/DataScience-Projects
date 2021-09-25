@@ -1,5 +1,7 @@
 # House Prices prediction using Advanced Regression Techniques
 
+## Introduction
+There are several factors that influence the price a buyer is willing to pay for a house. Some are apparent and obvious and some are not. Nevertheless, a rational approach facilitated by machine learning can be very useful in predicting the house price. A large data set with 81 different features (like lot area,  overall condition, garage area etc) along with their prices are provided for residential homes in Australia. The challenge is to learn a relationship between the important features and the price and use it to predict the prices of a new set of houses.
 
 ## Problem Statement
 A US-based housing company named Surprise Housing data analytics to purchase houses at a price below their actual values and flip them on at a higher price. 
@@ -7,8 +9,6 @@ The company is looking at prospective properties to buy to enter the market.
 The company wants to know the following things about the prospective properties:
   - Which variables are significant in predicting the price of a house, and
   - How well those variables describe the price of a house.
-
-
 
 ## Business Goal 
 You are required to model the price of houses with the available independent variables. 
@@ -19,17 +19,34 @@ Further, the model will be a good way for management to understand the pricing d
 _Tools: Numpy, Pandas, Seaborn, Matplotlib, scikit-learn_
 
 
-
-## Steps for Model Building
+## Project Pipeline
 
 - Exploratory data analysis
   - Plot distribution of the numerical features examine the skewness and plot correlation matrix between the features.
   - Plot distribution of categorical features to examine the imbalance in feature.
-  - Visualized the conditon of the building over a period of years.
+  - <details>
+    <summary><strong> Click to Visualize the conditon of the building over a period of years. </strong></summary>
+    <p align="center"><img src = 'https://github.com/DakshinGowda/DataScience-Projects/blob/main/House%20Price%20Prediction/Images/Age%20Built.png' width = 700><p>
+    </details>
 
 - Preprocessing of data
-  - Filling missing Data.
-  - Remove skewenes of Target feature using log Transformation.
+  - <details>
+    <summary><strong> Filling missing Data. </strong></summary>
+    <p float="left" align='center'>
+      <img src = 'https://github.com/DakshinGowda/DataScience-Projects/blob/main/House%20Price%20Prediction/Images/Missing%20data%20(Graph).png' width = 800>
+      <img src = 'https://github.com/DakshinGowda/DataScience-Projects/blob/main/House%20Price%20Prediction/Images/Missing%20data%20(df).png' width = 400>
+    <p>
+    </details>
+  
+  - <details>
+    <summary><strong> Remove skewenes of Target feature using log Transformation. </strong></summary>
+    <p float="left" align='center'>
+      <img title='before' src='https://github.com/DakshinGowda/DataScience-Projects/blob/main/House%20Price%20Prediction/Images/SkewTarget%20(Before).png' alt="Girl in a jacket" width = 400>
+      <img src='https://github.com/DakshinGowda/DataScience-Projects/blob/main/House%20Price%20Prediction/Images/SkewTarget%20(After).png' width = 400>
+    <p>
+    </details>
+
+  
   - Handle imbalanced categorical features.
   - Feature selection.
 
