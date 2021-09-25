@@ -33,8 +33,8 @@ _Tools: Numpy, Pandas, Seaborn, Matplotlib, scikit-learn_
   - <details>
     <summary><strong> Filling missing Data. </strong></summary>
     <p float="left" align='center'>
-      <img src = 'https://github.com/DakshinGowda/DataScience-Projects/blob/main/House%20Price%20Prediction/Images/Missing%20data%20(Graph).png' width = 800>
-      <img src = 'https://github.com/DakshinGowda/DataScience-Projects/blob/main/House%20Price%20Prediction/Images/Missing%20data%20(df).png' width = 400>
+      <img src = 'https://github.com/DakshinGowda/DataScience-Projects/blob/main/House%20Price%20Prediction/Images/SkewTarget%20(Before).png' width = 800>
+      <img src = 'https://github.com/DakshinGowda/DataScience-Projects/blob/main/House%20Price%20Prediction/Images/SkewTarget%20(After).png' width = 400>
     <p>
     </details>
   
