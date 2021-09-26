@@ -1,7 +1,7 @@
 # Telecom Churn
 
 ## Introduction
-This case study finds underlying pattern to overcome the factors that influences the high profitable customers to churn. We will also develop a basic understanding of retention of existing customers in Telecommunication services and understand how data is used to minimise the customer churn. The challenge is to learn a relationship between the important features and the churn and use it to predict the churn in upcoming months.
+This case study finds underlying pattern to overcome the factors that influences the high profitable customers to churn. We will also develop a basic understanding of retention of existing customers in Telecommunication services and understand how data is used to minimise the customer churn. The challenge is to learn a relationship between the important features and the churn and use it to predict churns in upcoming months.
 
 
 ## Business Problem Overview
@@ -65,24 +65,24 @@ _Tools: Numpy, Pandas, Seaborn, Matplotlib, scikit-learn, scipy_
 
 - Class Imbalance 
   - <details>
-    <summary><strong> Handling class imbalance using `SMOTE` Technique. </strong></summary>
+    <summary><strong> Handling class imbalance using SMOTE Technique. </strong></summary>
     <p align="left"><img src = 'https://github.com/DakshinGowda/DataScience-Projects/blob/main/Telecom%20Churn/Images/Class%20Imbalance.png' width = 800 height = 260><p>
     </details>
 
 - Outlier Treatment
   - Plot distribution of the numerical features examine the skewness.
   - <details>
-    <summary><strong> Reduced skewness using `Winsorization` Transformation technique. </strong></summary>
+    <summary><strong> Treating outliers using Winsorization Transformation technique. </strong></summary>
     <p align="center"><img src = 'https://github.com/DakshinGowda/DataScience-Projects/blob/main/Telecom%20Churn/Images/Outlier%20Treatment.png' width = 1000 height = 275><p>
     </details>
 
 - Model Building
   - Feature Scaling : Standardization on numerical features.
   - Dimension Reduction : <details>
-    <summary><strong> Reduce the number of variables using PCA. </strong></summary>
+    <summary><strong> Reduce the dimension of the data using PCA. </strong></summary>
     <p align="center"><img src = 'https://github.com/DakshinGowda/DataScience-Projects/blob/main/Telecom%20Churn/Images/PCA.png' width = 500><p>
     </details>
-  - Hyper-Parameter tuning : Tuning hyper-paramters on Logistic Regression, Random Forest classifier and XGBoost classifier models using Kfold cross-validation until you get the     desired level of performance on the given dataset.
+  - Hyper-Parameter tuning : Tuning hyper-paramters on Logistic Regression, Random Forest classifier and XGBoost classifier models using Kfold cross-validation until you reach       the desired level of performance on the given dataset.
   - Feature Importance :<details>
     <summary><strong>  Plot top 30 features that are useful in predicting customer churn. </strong></summary>
     <p float="left" align='center'>
