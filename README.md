@@ -1,4 +1,4 @@
-# Data Science Portfolio and Machine Learning Portfolio
+# Data Science and Machine Learning Portfolio
 This repository containing a portfolio of data science projects I've done in the Master's program, self-learning and collabration with datascience enthusiast.
 
 Tools : NumPy, Pandas, Seaborn, Matplotlib, Plotly, scikit-learn, Scipy.
